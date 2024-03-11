@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VSO\\UDEMY\\Dapper - Aprenda a usar o micro-ORM mais popular do DOTNET\\eCommerce.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{217A21F5-95AB-4C7E-A245-1D19FBD281D2}|eCommerce.API\\eCommerce.API.csproj|c:\\vso\\udemy\\dapper - aprenda a usar o micro-orm mais popular do dotnet\\ecommerce.api\\ecommerce.api\\controllers\\tipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217A21F5-95AB-4C7E-A245-1D19FBD281D2}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\tipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217A21F5-95AB-4C7E-A245-1D19FBD281D2}|eCommerce.API\\eCommerce.API.csproj|c:\\vso\\udemy\\dapper - aprenda a usar o micro-orm mais popular do dotnet\\ecommerce.api\\ecommerce.api\\mappers\\usuariodoismap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217A21F5-95AB-4C7E-A245-1D19FBD281D2}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\mappers\\usuariodoismap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217A21F5-95AB-4C7E-A245-1D19FBD281D2}|eCommerce.API\\eCommerce.API.csproj|c:\\vso\\udemy\\dapper - aprenda a usar o micro-orm mais popular do dotnet\\ecommerce.api\\ecommerce.api\\model\\usuariodois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217A21F5-95AB-4C7E-A245-1D19FBD281D2}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\model\\usuariodois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioDoisMap.cs",
+              "DocumentMoniker": "C:\\VSO\\UDEMY\\Dapper - Aprenda a usar o micro-ORM mais popular do DOTNET\\eCommerce.API\\eCommerce.API\\Mappers\\UsuarioDoisMap.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Mappers\\UsuarioDoisMap.cs",
+              "ToolTip": "C:\\VSO\\UDEMY\\Dapper - Aprenda a usar o micro-ORM mais popular do DOTNET\\eCommerce.API\\eCommerce.API\\Mappers\\UsuarioDoisMap.cs",
+              "RelativeToolTip": "eCommerce.API\\Mappers\\UsuarioDoisMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:03:27.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDois.cs",
+              "DocumentMoniker": "C:\\VSO\\UDEMY\\Dapper - Aprenda a usar o micro-ORM mais popular do DOTNET\\eCommerce.API\\eCommerce.API\\Model\\UsuarioDois.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Model\\UsuarioDois.cs",
+              "ToolTip": "C:\\VSO\\UDEMY\\Dapper - Aprenda a usar o micro-ORM mais popular do DOTNET\\eCommerce.API\\eCommerce.API\\Model\\UsuarioDois.cs",
+              "RelativeToolTip": "eCommerce.API\\Model\\UsuarioDois.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:51:11.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipsController.cs",
+              "DocumentMoniker": "C:\\VSO\\UDEMY\\Dapper - Aprenda a usar o micro-ORM mais popular do DOTNET\\eCommerce.API\\eCommerce.API\\Controllers\\TipsController.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Controllers\\TipsController.cs",
+              "ToolTip": "C:\\VSO\\UDEMY\\Dapper - Aprenda a usar o micro-ORM mais popular do DOTNET\\eCommerce.API\\eCommerce.API\\Controllers\\TipsController.cs",
+              "RelativeToolTip": "eCommerce.API\\Controllers\\TipsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA9wEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:17:19.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
